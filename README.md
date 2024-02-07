@@ -3,5 +3,7 @@
 
 
 <!--
-You came here to read this? Good on you. mcnac.xyz/nmresume.pdf
+You came here to read this? Wow, thanks. 
+mcnac.xyz/nmresume.pdf
+While you're at it, there's a better read than this markdown file
 -->
