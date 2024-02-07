@@ -3,5 +3,5 @@
 
 
 <!--
-You came here to read this? Good on you. mcnac.xyz/nmresume.html
+You came here to read this? Good on you. mcnac.xyz/nmresume.pdf
 -->
