@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hello, there. 
+![ClipWindowsGIF](https://github.com/noahsamoa/noahsamoa/assets/12013865/bbece499-e938-4446-bfe5-d7599871bcdd)
+
 
 <!--
 **noahsamoa/noahsamoa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
