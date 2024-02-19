@@ -10,6 +10,6 @@
 </p>
 <!--
 You came here to read this? Wow, thanks. 
-https://mcnac.xyz/nmresume.pdf
 While you're at it, there's a better read than this markdown file
+https://mcnac.xyz/nmresume.pdf
 -->
