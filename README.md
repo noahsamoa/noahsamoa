@@ -4,7 +4,7 @@
 
 ## Toolkit:
 
-![img](https://skillicons.dev/icons?i=html,css,bootstrap,javascript,php,mysql,nginx,threejs,bash,linux,raspberrypi,aws,svg,unreal,ableton,md,tailwind,vue,jquery,nodejs,wordpress,vercel,expressjs,ps,figma,vim,git,github,vscode,stackoverflow)
+
 <!--
 You came here to read this? Wow, thanks. 
 While you're at it, here's a better read than this markdown file:
